@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d15a0921.chunk.css",
+    "main.js": "/static/js/main.d1f61387.chunk.js",
+    "main.js.map": "/static/js/main.d1f61387.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d74b4374.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d74b4374.js.map",
+    "static/css/2.df83caf4.chunk.css": "/static/css/2.df83caf4.chunk.css",
+    "static/js/2.adb83ca0.chunk.js": "/static/js/2.adb83ca0.chunk.js",
+    "static/js/2.adb83ca0.chunk.js.map": "/static/js/2.adb83ca0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.178cc7e6ee9d5cd88075340911e46c8d.js": "/precache-manifest.178cc7e6ee9d5cd88075340911e46c8d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.df83caf4.chunk.css.map": "/static/css/2.df83caf4.chunk.css.map",
+    "static/css/main.d15a0921.chunk.css.map": "/static/css/main.d15a0921.chunk.css.map",
+    "static/js/2.adb83ca0.chunk.js.LICENSE.txt": "/static/js/2.adb83ca0.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/pic3.d6a82c2c.jpg",
+    "static/media/iconmonstr-github-1.svg": "/static/media/iconmonstr-github-1.1bb02710.svg",
+    "static/media/iconmonstr-instagram-11.svg": "/static/media/iconmonstr-instagram-11.341a67c5.svg",
+    "static/media/iconmonstr-whatsapp-1.svg": "/static/media/iconmonstr-whatsapp-1.c45df616.svg",
+    "static/media/pic1.jpg": "/static/media/pic1.d1867983.jpg",
+    "static/media/pic2.jpg": "/static/media/pic2.d4c0ebe5.jpg",
+    "static/media/pic4.jpg": "/static/media/pic4.e350c979.jpg",
+    "static/media/pic5.jpg": "/static/media/pic5.cf9c1d3f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d74b4374.js",
+    "static/css/2.df83caf4.chunk.css",
+    "static/js/2.adb83ca0.chunk.js",
+    "static/css/main.d15a0921.chunk.css",
+    "static/js/main.d1f61387.chunk.js"
+  ]
+}
